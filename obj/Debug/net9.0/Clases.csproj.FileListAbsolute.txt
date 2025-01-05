@@ -1,0 +1,14 @@
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\bin\Debug\net9.0\Clases.exe
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\bin\Debug\net9.0\Clases.deps.json
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\bin\Debug\net9.0\Clases.runtimeconfig.json
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\bin\Debug\net9.0\Clases.dll
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\bin\Debug\net9.0\Clases.pdb
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\obj\Debug\net9.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\obj\Debug\net9.0\Clases.AssemblyInfoInputs.cache
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\obj\Debug\net9.0\Clases.AssemblyInfo.cs
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\obj\Debug\net9.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\obj\Debug\net9.0\Clases.dll
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\obj\Debug\net9.0\refint\Clases.dll
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\obj\Debug\net9.0\Clases.pdb
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\obj\Debug\net9.0\Clases.genruntimeconfig.cache
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\obj\Debug\net9.0\ref\Clases.dll
