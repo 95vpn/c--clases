@@ -12,3 +12,4 @@ C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\obj\Deb
 C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\obj\Debug\net9.0\Clases.pdb
 C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\obj\Debug\net9.0\Clases.genruntimeconfig.cache
 C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\obj\Debug\net9.0\ref\Clases.dll
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\Clases\obj\Debug\net9.0\Clases.sourcelink.json

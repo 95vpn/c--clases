@@ -54,6 +54,7 @@ public class BankAccount
     }
 
     private List<Transaction> _allTransactions = new List<Transaction>();
+
 }
 
 
